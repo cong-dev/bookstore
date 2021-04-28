@@ -19,6 +19,7 @@ class BookDaoImplTest {
 			System.out.println(book);
 		}
 		System.out.println("ok");
+		System.out.println("666");
 	}
 	
 	@Test
