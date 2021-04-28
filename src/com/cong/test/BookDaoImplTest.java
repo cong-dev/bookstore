@@ -18,6 +18,7 @@ class BookDaoImplTest {
 		for (Book book : allBooks) {
 			System.out.println(book);
 		}
+		System.out.println("ok");
 	}
 	
 	@Test
